@@ -1,6 +1,6 @@
 ## Eba Portal Video İndirici
 ![](https://raw.githubusercontent.com/furkan6116/ebavideoindirici/master/%C3%B6rnek.png)
-Ebanın bloblar kullanarak güçlü bir şekilde koruduğu video portalı sayfasındaki videoların indirilemediğini duymuştum. **BEN İNDİRİRİM**
+Ebanın bloblar kullanarak güçlü bir şekilde koruduğu video portalı sayfasındaki videoların indirilemediğini duymuştum. **BEN İNDİRİRİM**😜😜😜😜
 
 ## Nasıl Kullanılıyor
  1. Gerekli Modülleri İndirin
