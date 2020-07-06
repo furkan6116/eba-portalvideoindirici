@@ -6,7 +6,7 @@ Ebanın bloblar kullanarak güçlü bir şekilde koruduğu video portalı sayfas
  1. Gerekli Modülleri İndirin
  2. Scriptin bulunduğu klasörde komut satırı açın veya parametre girilebilecek herhangi bir çözüm kullanın
  3. Bu kodu değiştirip yapıştırın `python indir.py -v [video tam linki]`
- 4. mesela örnek olarak `python bot.py -v https://www.eba.gov.tr/video/izle/18506d950cef3cb5745dcb33979cbc5656c89c79a0018`
+ 4. mesela örnek olarak `python indir.py -v https://www.eba.gov.tr/video/izle/18506d950cef3cb5745dcb33979cbc5656c89c79a0018`
  5. Arkanıza yaslanın, script videoyu bulunduğu konuma **video.mp4** olarak kaydedecektir
 ## Önemli Uyarı
 Bu Script **ffmpeg** ile çalışır ffmpeg.exe ya scriptin bulunduğu konumda olmalı ya da Sisteme path değişkeni olarak kaydedilmelidir.
